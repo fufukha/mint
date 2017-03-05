@@ -1,0 +1,21 @@
+logo {	
+	background-image: url("https://images.mint.com/web-client/images/mint_logo.png");
+	background-size: 100%	
+	height: 56px;
+	weight: 103px;
+
+
+password lock {
+	background: url("https://images.mint.com/web-client/images/icons/mint/icon-lock_open-gray2.svg") 0 50%/35px 17px no-repeat;
+}
+
+
+140 x 58
+norton {
+    background-image: url("https://images.mint.com/web-client/images/security/vseal.svg");
+}
+
+trust {
+	background-image: url("https://images.mint.com/web-client/images/security/truste.svg");
+}
+
